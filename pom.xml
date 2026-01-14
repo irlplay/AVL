@@ -116,13 +116,13 @@
         <dependency>
             <groupId>com.loohp</groupId>
             <artifactId>Limbo</artifactId>
-            <version>0.7.17-ALPHA</version>
+            <version>0.7.18-ALPHA</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>net.raphimc</groupId>
             <artifactId>ViaProxy</artifactId>
-            <version>3.4.7</version>
+            <version>3.4.8</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
